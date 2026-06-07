@@ -16,4 +16,4 @@ Public CDN assets for the WoodsPortal HubSpot module (**Strategy B — Hybrid CD
 - `https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn/app.v0.0.1-dev.2.js`
 - `https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn/app.v0.0.1-dev.2.css`
 
-Published at 2026-06-07T19:48:48.870Z.
+Published at 2026-06-07T19:52:01.425Z.
