@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T20:24:14.117Z",
+  "generatedAt": "2026-06-07T20:41:20.801Z",
   "buildId": "v0.0.1-dev.3",
   "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn",
   "publishMode": "jsdelivr",
@@ -16,8 +16,8 @@
       "name": "app",
       "file": "app.v0.0.1-dev.3.js",
       "order": 2,
-      "rawBytes": 103537,
-      "gzipBytes": 33969,
+      "rawBytes": 103630,
+      "gzipBytes": 34007,
       "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/app.v0.0.1-dev.3.js"
     }
   ],
