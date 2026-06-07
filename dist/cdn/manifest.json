@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T19:51:59.451Z",
+  "generatedAt": "2026-06-07T19:55:43.801Z",
   "buildId": "v0.0.1-dev.2",
-  "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn",
   "publishMode": "jsdelivr",
   "scripts": [
     {
@@ -10,7 +10,7 @@
       "order": 1,
       "rawBytes": 194960,
       "gzipBytes": 61017,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn/vendor.v0.0.1-dev.2.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/vendor.v0.0.1-dev.2.js"
     },
     {
       "name": "app",
@@ -18,7 +18,7 @@
       "order": 2,
       "rawBytes": 102808,
       "gzipBytes": 33620,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn/app.v0.0.1-dev.2.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/app.v0.0.1-dev.2.js"
     }
   ],
   "styles": [
@@ -28,7 +28,7 @@
       "order": 1,
       "rawBytes": 26027,
       "gzipBytes": 5488,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@v0.0.1-dev.2/dist/cdn/app.v0.0.1-dev.2.css"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/app.v0.0.1-dev.2.css"
     }
   ]
 }
