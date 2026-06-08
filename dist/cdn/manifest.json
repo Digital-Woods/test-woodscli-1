@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T20:54:08.995Z",
+  "generatedAt": "2026-06-08T04:44:45.719Z",
   "buildId": "v0.0.1-dev.5",
   "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn",
   "publishMode": "jsdelivr",
@@ -16,8 +16,8 @@
       "name": "app",
       "file": "app.v0.0.1-dev.5.js",
       "order": 2,
-      "rawBytes": 100832,
-      "gzipBytes": 32940,
+      "rawBytes": 101953,
+      "gzipBytes": 33348,
       "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/app.v0.0.1-dev.5.js"
     }
   ],
@@ -26,8 +26,8 @@
       "name": "app",
       "file": "app.v0.0.1-dev.5.css",
       "order": 1,
-      "rawBytes": 23807,
-      "gzipBytes": 4834,
+      "rawBytes": 48550,
+      "gzipBytes": 7238,
       "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/test-woodscli-1@main/dist/cdn/app.v0.0.1-dev.5.css"
     }
   ]
